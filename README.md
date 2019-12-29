@@ -1,4 +1,4 @@
-# eaichat
+# Drink
 
 > An electron-vue project
 
